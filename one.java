@@ -1,3 +1,4 @@
+/* In this program we can find the count of target value as the inputs:*/
 import java.util.*;
 public class Countvalue {
     public static void main(String args[]){
@@ -27,6 +28,7 @@ public class Countvalue {
 }
 
 
+//The output:
 /*Enter the range:
 5
 Enter the elements:
